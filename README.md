@@ -12,8 +12,8 @@
 * [Contact](#contact)
 
 ## General info
-Given LOB data and certain points in time our goal is to predict, whether the price will increase or go down. <br>
-We will be using LOB (Limit Order Book) data from London stock market, collected in September 2013. <br>
+Given LOB (Limit Order Book) data and certain points in time our goal is to predict whether the price will increase or decrease. <br>
+We will be using LOB data from London stock market, collected for September 2013. <br>
 Main method used is Logistic regression. <br>
 
 ## Screenshots
