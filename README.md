@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Libraries](#Libraries)
-* [Features](#features)
+* [Results](#Results)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -31,10 +31,9 @@ Main method used is Logistic regression. <br>
 * matplotlib
 * seaborn
 
-## Features
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+## Results
+* around 54% accuracy on train data
+* around 55% accuracy on test data
 
 ## Status
 Project is: _finished_,
