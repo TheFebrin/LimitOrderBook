@@ -9,7 +9,6 @@
 * [Results](#Results)
 * [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
 
 ## General info
 Given LOB (Limit Order Book) data and certain points in time our goal is to predict whether the price will increase or decrease. <br>
