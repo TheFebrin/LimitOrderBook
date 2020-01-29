@@ -32,6 +32,7 @@ Main method used is Logistic regression. <br>
 * seaborn
 
 ## Results
+* 51.6 % baseline on test data
 * around 54% accuracy on train data
 * around 55% accuracy on test data
 
