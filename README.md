@@ -1,5 +1,6 @@
 # LimitOrderBook
-> Stock market predictions based on limit order books.
+> Stock market predictions using limit order books dataset.
+> Based on this [paper](https://arxiv.org/pdf/1512.03492.pdf).
 
 ## Table of contents
 * [General info](#general-info)
